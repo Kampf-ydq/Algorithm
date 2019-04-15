@@ -1,0 +1,43 @@
+﻿生成启动时间为 2018/6/16/周六 15:18:53。
+     1>项目“D:\AlgorithmCode\bagGreedy\bagGreedy\bagGreedy.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\开发工具\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt bagGreedy.cpp
+         bagGreedy.cpp
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(44): error C2131: 表达式的计算结果不是常数
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(44): note: 非常量参数或对非常量符号的引用导致了故障
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(44): note: 请参见“goods_num”的用法
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(48): error C2228: “.weight”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(48): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(48): error C2228: “.value”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(48): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(49): error C2228: “.ValPerWei”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(49): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(49): error C2228: “.value”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(49): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(49): error C2228: “.weight”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(49): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(50): error C2228: “.load”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(50): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(59): error C2228: “.load”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(59): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(61): error C2228: “.value”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(61): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(61): error C2228: “.load”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(61): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(62): error C2228: “.weight”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(62): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(62): error C2228: “.load”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(62): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): error C2228: “.weight”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): error C2228: “.value”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): error C2228: “.ValPerWei”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): note: 类型是“Goods [goods_num+]”
+     1>d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): error C2228: “.load”的左边必须有类/结构/联合
+         d:\algorithmcode\baggreedy\baggreedy\baggreedy.cpp(63): note: 类型是“Goods [goods_num+]”
+     1>已完成生成项目“D:\AlgorithmCode\bagGreedy\bagGreedy\bagGreedy.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.80
